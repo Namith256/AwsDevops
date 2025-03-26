@@ -6,8 +6,13 @@ line4
 line5
 line6
 <<<<<<< HEAD
+<<<<<<< HEAD
 line7
 line8
 =======
 line7
 >>>>>>> d985c7b (Auto-commit on Wed, Mar 26, 2025  9:03:03 PM)
+=======
+line7
+line8
+>>>>>>> 5d7d002 (Auto-commit on Wed, Mar 26, 2025  9:03:29 PM)
