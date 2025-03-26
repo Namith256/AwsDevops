@@ -11,4 +11,4 @@ while true; do
         git commit -m "Auto-commit on $(date)"
         echo "Changes committed!"
     fi
-done
+doneq
